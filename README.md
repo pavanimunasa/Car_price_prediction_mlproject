@@ -292,7 +292,7 @@ A good model produces points that lie close to the diagonal line, indicating tha
 ### 1. Clone the Repository
 
 bash:
-git clone https://github.com/your-username/Car-Price-Prediction.git
+git clone https://github.com/pavanimunasa/Car_price_prediction_mlproject.git
 
 ### 2. Navigate to the Project Folder
 
